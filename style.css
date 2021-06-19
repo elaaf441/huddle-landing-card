@@ -44,7 +44,7 @@ color: rgb(87, 87, 87);
     height: 50px;
 border-radius: 50px;
 background-color:  hsl(322, 100%, 66%);
-color: white;
+color: red;
 border: 0;
 -webkit-box-shadow: 0 8px 6px -6px rgb(184, 183, 183);
 	   -moz-box-shadow: 0 8px 6px -6px rgb(160, 159, 159);
