@@ -6,7 +6,7 @@ body{
     padding: 50px;
     background-color: white;
 }
-h1{
+.h1{
     position: absolute;
     top: 45px;
     left: 108px;
@@ -44,17 +44,18 @@ color: rgb(87, 87, 87);
     height: 50px;
 border-radius: 50px;
 background-color:  hsl(322, 100%, 66%);
-color: red;
+color: white;
 border: 0;
 -webkit-box-shadow: 0 8px 6px -6px rgb(184, 183, 183);
 	   -moz-box-shadow: 0 8px 6px -6px rgb(160, 159, 159);
 	        box-shadow: 0 8px 6px -6px rgb(155, 155, 155);
 
 }
+/* firstdiv */
 .firstdiv{
     width: 500px;
     height: 300px;
-    background-color: rgb(253, 253, 253);
+    background-color: white;
     margin-left: 320px;
     margin-top: 50px;
     border-radius: 20px;
@@ -104,7 +105,9 @@ border-radius: 4px;
 .circle1{
     width: 50px;
     height: 50px;
-    background-color: rgb(85, 63, 85);
+    background: rgb(188,34,195);
+    background: rgb(237,178,217);
+    background: linear-gradient(0deg, rgba(237,178,217,1) 0%, rgba(245,165,131,1) 41%);
     border-radius: 50px;
     margin-top: 20px;
     margin-left: 40px;
@@ -112,7 +115,7 @@ border-radius: 4px;
 .circle2{
     width: 50px;
     height: 50px;
-    background-color: rgb(85, 63, 85);
+    background-color: rgb(73, 183, 252);
     border-radius: 50px;
     margin-top: 20px;
     margin-left: 40px;
@@ -120,7 +123,8 @@ border-radius: 4px;
 .circl3{
     width: 50px;
     height: 50px;
-    background-color: rgb(85, 63, 85);
+    background: rgb(236,146,234);
+background: linear-gradient(113deg, rgba(236,146,234,1) 0%, rgba(189,54,251,1) 41%);
     border-radius: 50px;
     margin-top: 24px;
     margin-left: 40px;
@@ -220,4 +224,652 @@ border-radius: 4px;
     position: absolute;
     bottom: 76px;
     left: 480px;
+}
+
+.circle4{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 680px;
+    bottom: 230px;
+    border-radius: 10px;
+}
+.circle5{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 705px;
+    bottom: 230px;
+    border-radius: 10px;
+}
+.circl6{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 730px;
+    bottom: 230px;
+    border-radius: 10px;
+}
+.circle7{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 757px;
+    bottom: 230px;
+    border-radius: 10px;
+}
+.circle8{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 680px;
+    bottom: 160px;
+    border-radius: 10px;
+}
+.circl9{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(201, 201, 201);
+    position: absolute;
+    left: 680px;
+    bottom: 80px;
+    border-radius: 10px;
+}
+/* endfirstdiv */
+/* startseconddiv */
+.seconddiv{
+    height: 280px;
+    width: 200px;
+    background-color: violet;
+    position: absolute;
+    top: 470px;
+    left: 710px;
+    -webkit-box-shadow: 0 0 4px 1px rgb(78, 78, 78);
+    -moz-box-shadow: 0 0 4px 1px rgb(143, 143, 143);
+    box-shadow: 0 0 4px 1px rgb(109, 108, 108);
+background-color: white;
+border-radius: 20px;
+}
+
+.nav1{
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    padding-top: 15px;
+}
+.navtop1{
+    width: 50px;
+    height: 13px;
+    background-color:  rgb(230, 230, 230);
+    margin-left: 30px;
+border-radius: 4px;
+}
+.one11{
+    width: 17px;
+    margin-left: 140px;
+    
+    height: 2px;
+    background-color:  rgb(206, 204, 204);
+}
+.two2{
+    width: 17px;
+    margin-left: 140px;
+    position: absolute;
+    bottom: 257px;
+    height: 2px;
+    background-color: rgb(206, 204, 204);
+}
+.three3{
+    width: 17px;
+    margin-left: 140px;
+    position: absolute;
+    bottom: 243px;
+    height: 2px;
+    background-color: rgb(206, 204, 204);
+}
+.circle11{
+    width: 30px;
+    height: 30px;
+    background: rgb(188,34,195);
+    background: rgb(237,178,217);
+    background: linear-gradient(0deg, rgba(237,178,217,1) 0%, rgba(245,165,131,1) 41%);
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.circle22{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(73, 183, 252);
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.circl33{
+    width: 30px;
+    height: 30px;
+    background: rgb(236,146,234);
+background: linear-gradient(113deg, rgba(236,146,234,1) 0%, rgba(189,54,251,1) 41%);
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.circl44{
+    width: 30px;
+    height: 30px;
+    background: rgb(188,34,195);
+    background: rgb(237,178,217);
+    background: linear-gradient(0deg, rgba(237,178,217,1) 0%, rgba(245,165,131,1) 41%);
+    border-radius: 50px;
+    margin-top: 4px;
+    margin-left: 15px;
+}
+.circl55{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(73, 183, 252);
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.circl66{
+    width: 30px;
+    height: 30px;
+    background: rgb(236,146,234);
+background: linear-gradient(113deg, rgba(236,146,234,1) 0%, rgba(189,54,251,1) 41%);
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.linetop1{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 200px;
+    left: 50px;
+}
+.linefirst11{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 195px;
+    left: 50px;
+}
+.linesecond22{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 190px;
+    left: 50px;
+}
+.linethird33{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 185px;
+    left: 50px;
+}
+
+.linetop21{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 170px;
+    left: 50px;
+}
+.linefirst14{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 165px;
+    left: 50px;
+}
+.linesecond23{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+}
+.linethird34{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 155px;
+    left: 50px;
+}
+
+.linetop45{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 130px;
+    left: 50px;
+}
+.linefirst56{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 125px;
+    left: 50px;
+}
+.linesecond67{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 120px;
+    left: 50px;
+}
+.linethird78{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 115px;
+    left: 50px;
+}
+/* first */
+.linetop79{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+}
+.linefirst80{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 95px;
+    left: 50px;
+}
+.linesecond81{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 90px;
+    left: 50px;
+}
+.linethird82{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 85px;
+    left: 50px;
+}
+.linetop83{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 68px;
+    left: 50px;
+}
+.linefirst84{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 63px;
+    left: 50px;
+}
+.linesecond85{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 58px;
+    left: 50px;
+}
+.linethird86{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 53px;
+    left: 50px;
+}
+.linetop87{
+    width: 30px;
+    height: 6px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 33px;
+    left: 50px;
+}
+.linefirst88{
+    width: 128px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 28px;
+    left: 50px;
+}
+.linesecond89{
+    width: 110px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 23px;
+    left: 50px;
+}
+.linethird90{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    bottom: 18px;
+    left: 50px;
+}
+/* second */
+
+.communits{
+    margin-left: 300px;
+    margin-top: 130px;
+}
+.onethree{
+    margin-left: 300px;
+    font-size: 70px;
+}
+.onetwo{
+    margin-left: 300px;
+    color: grey;
+}
+.messages{
+    margin-left: 750px;
+   position: absolute;
+   top: 800px;
+  width: 30px;
+  height: 30px;
+}
+.twothree{
+    margin-left: 750px;
+    position: absolute;
+    top: 840px;
+    font-size: 70px;
+}
+.twofour{
+    margin-left: 750px;
+    position: absolute;
+    top: 920px;
+   color: grey;
+}
+/* .sectiontop{
+    width: 1100px;
+    height: 100px;
+    
+
+} */
+
+  
+
+.together{
+    width: 420px;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.grow{
+    margin-left: 170px;
+    position: absolute;
+    top: 1200px;
+/* right: 890px; */
+    font-size: 30px;
+    font-weight: 1000;
+    color: black;
+    
+
+}
+.generate{
+    position: absolute;
+    top: 1270px;
+left: 200px;
+    text-align: left;
+
+}
+.sectiontop{
+    width: 1180px;
+position: absolute;
+left: 50px;
+
+   
+   
+}
+.secbot{
+    width: 1180px;
+
+    position: absolute;
+    top: 1462px;
+    left: 50px;
+    z-index: -3;
+
+}
+.underciv{
+    width: 1180px;
+    height: 430px;
+    background-color:  hsl(207, 100%, 98%);
+    position: absolute;
+    top: 1050px;
+    border: 0;
+   z-index: -2;
+}
+/* next */
+.flowimg{
+    width: 400px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.flowing{
+    position: absolute;
+left: 640px;
+top: 1900px;
+font-size: 30px;
+
+}
+.you{
+    position: absolute;
+left: 640px;
+top: 1940px;
+text-align: left;
+font-size: 12px;
+
+}
+/* nextdiv */
+
+.top2{
+    width: 1180px;
+position: absolute;
+left: 50px;
+margin-top: 80px;
+
+   
+   
+}
+.bot2{
+    width: 1180px;
+
+    position: absolute;
+    top: 2592px;
+    left: 50px;
+    z-index: -3;
+
+}
+.under2div{
+    width: 1180px;
+    height: 340px;
+    background-color:  hsl(207, 100%, 98%);
+    position: absolute;
+    top: 2265px;
+    border: 0;
+   z-index: -2;
+}
+.users1{
+position: absolute;
+top: 2370px;
+left: 200px;
+
+}
+.takes{
+    position: absolute;
+top: 2440px;
+left: 200px;
+text-align: left;
+
+}
+.userimg{
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 800px;
+}
+
+
+.community{
+    font-size: 30px;
+    margin-top: 270px;
+    margin-left: 330px;
+}
+.secondbut{
+    margin-left: 460px;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+border-radius: 50px;
+background-color:  hsl(322, 100%, 66%);
+color: white;
+border: 0;
+-webkit-box-shadow: 0 8px 6px -6px rgb(139, 136, 136);
+	   -moz-box-shadow: 0 8px 6px -6px rgb(124, 122, 122);
+	        box-shadow: 0 8px 6px -6px rgb(155, 155, 155);
+}
+
+/* lastdiv */
+
+.footer{
+    width: 1180px;
+  margin-top: 100px;
+}
+.footerdiv{
+    width: 1180px;
+    height: 400px;
+    background-color: hsl(192, 100%, 9%);
+    position: absolute;
+   top: 3210px;
+z-index: -3;
+ 
+}
+
+.iconmessage{
+    position: absolute;
+    top: 3250px;
+    left: 120px;
+    
+   
+}
+.twoh1{
+    position: absolute;
+    top: 3250px;
+    left: 180px;
+    color: white;
+}
+.lorem{
+    color: rgb(218, 218, 218);
+    margin-left: 93px;
+    margin-top: 80px;
+    font-size: 14px;
+}
+
+.iconphone{
+    margin-left:93px ;
+    margin-top: 40px;
+}
+
+.phoneno{
+   position: absolute;
+   left: 190px;
+   top: 3400px;
+   color: rgb(218, 214, 214);
+   font-size: 20px;
+}
+.icoemail{
+position: absolute;
+top: 3440px;
+left: 140px;
+}
+.example{
+    margin-left: 140px;
+    margin-top: 30px;
+    color: rgb(224, 219, 219);
+}
+
+.png{
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.insta{
+width: 24px;
+}
+
+.news{
+    position: absolute;
+    top: 3290px;
+    left: 800px;
+    font-size: 24px;
+    color: white;
+
+}
+.recives{
+    position: absolute;
+    top: 3330px;
+    left: 800px;
+    font-size: 14px;
+    color: rgb(201, 200, 200);
+
+}
+.but1{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    top: 3400px;
+    left: 800px;
+    border-radius: 5px solid;
+}
+
+.but2{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 3400px;
+    left: 1020px;
+    border-radius: 5px ;
+    background-color: hsl(322, 100%, 66%);
+    border: 0;
+    color: white;
+    font-size: 12px;
+}
+.iconmessage{
+    width: 40px;
 }
